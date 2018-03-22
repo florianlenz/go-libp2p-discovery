@@ -7,6 +7,12 @@
       "hash": "QmXauCuJzmzapetmC6W4TuDJLL1yFFrVzSHoWv8YdbmnxH",
       "name": "go-libp2p-peerstore",
       "version": "1.4.15"
+    },
+    {
+      "author": "why",
+      "hash": "QmQViVWBHbU6HmYjXcdNq7tVASCNgdg64ZGcauuDkLCivW",
+      "name": "go-ipfs-addr",
+      "version": "0.1.7"
     }
   ],
   "gxVersion": "0.12.1",
