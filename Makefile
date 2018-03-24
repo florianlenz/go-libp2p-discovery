@@ -3,4 +3,4 @@ deps:
 	gx install
 test:
 	go fmt
-	go test
+	go test -cover
