@@ -13,7 +13,10 @@ type Railing struct {
 	stopped        bool
 }
 
+//Start railing
 func (r *Railing) Start(cb DiscoveryCallback) {
+
+	r.stopped = false
 
 	go func() {
 
